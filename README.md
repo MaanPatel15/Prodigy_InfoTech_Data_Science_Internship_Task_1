@@ -1,2 +1,2 @@
 # Prodigy_InfoTech_Data_Science_Internship_Task_1
-Data Visualization using Python
+Analyzing Global Population Trends
